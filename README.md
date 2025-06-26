@@ -1,6 +1,4 @@
-#  Prueba de Programación para Desarrollador - Python - IA
-
-## 12. Describe cómo entrenar un modelo simple usando scikit-learn.
+#  Cómo entrenar un modelo simple usando scikit-learn.
 
 Para entrenar un modelo usando scikit-learn implica varios pasos:
 
@@ -117,18 +115,3 @@ Para entrenar un modelo usando scikit-learn implica varios pasos:
     se predice su categoría con el clasificador entrenado.
 
     Se imprimen las predicciones junto con los textos originales.
-
-## 13. ¿Qué tipos de problemas se pueden resolver con redes neuronales en TensorFlow?
-
-Las redes neuronales en TensorFlow pueden resolver una amplia variedad de problemas, incluyendo:
-
-- Clasificación de Imágenes: Identificar y clasificar objetos en fotos.
-- Reconocimiento de Voz y NLP: Convertir audio en texto, traducir idiomas y analizar sentimientos.
-- Predicción de Series Temporales: Pronosticar ventas, precios de acciones y datos climáticos.
-- Regresión: Estimar precios de viviendas o predecir variables continuas.
-- Diagnóstico Médico: Detectar enfermedades a partir de imágenes médicas.
-- Generación de Imágenes y Texto: Crear imágenes realistas y generar texto coherente.
-- Sistemas de Recomendación: Sugerir productos o contenido según las preferencias del usuario.
-- Detección de Anomalías: Identificar fraudes o comportamientos anómalos en datos.
-
-TensorFlow es eficaz para manejar grandes datos y realizar cálculos complejos, adaptándose a diversos campos y aplicaciones.
